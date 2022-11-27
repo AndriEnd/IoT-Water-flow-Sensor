@@ -25,7 +25,7 @@ int MoistureValue;
 #define WIFI_PASSWORD "jujuvalo"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyA6U7oUoW7zpeBbRPu6R8BzUvpMHbYrDuE"
+#define API_KEY "AIzaSyA********UvpMHbYrDuE"
 
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://dht11-feb85-default-rtdb.firebaseio.com/"
